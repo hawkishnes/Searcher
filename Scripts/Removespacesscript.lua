@@ -5,3 +5,5 @@ InputQuery = io.open("Inputsearchquery", "r")
 05	 
 06  io.open("searchquerywithoutspaces", "w")
 07  f:write(FinalSearchQuery)
+08 
+09  & "../Openurlscript.lua"
