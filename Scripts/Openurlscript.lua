@@ -1,24 +1,19 @@
 exhaustive.
 
--- Attempts to open a given URL in the system default browser, regardless of Operating System.
-local open_cmd -- this needs to stay outside the function, or it'll re-sniff every time...
+local open_cmd
 function open_url(url)
     if not open_cmd then
-        if package.config:sub(1,1) == '\\' then -- windows
+        if package.config:sub(1,1) == '\\' then 
             open_cmd = function(url)
-                -- Should work on anything since (and including) win'95
-                os.execute(string.format('start "%s"', url))
+                os.execute(string.format('start "%s"',(io.open("searchquerywithoutspaces", "r")))
             end
-        -- the only systems left should understand uname...
-        elseif (io.popen("uname -s"):read'*a') == "Darwin" then -- OSX/Darwin ? (I can not test.)
+        elseif (io.popen("uname -s"):read'*a') == "Darwin" then
             open_cmd = function(url)
-                -- I cannot test, but this should work on modern Macs.
-                os.execute(string.format('open "%s"', url))
+                os.execute(string.format('open "%s"',(io.open("searchquerywithoutspaces", "w")))
             end
-        else -- that ought to only leave Linux
+        else 
             open_cmd = function(url)
-                -- should work on X-based distros.
-                os.execute(string.format('xdg-open "%s"', url))
+                os.execute(string.format('xdg-open "%s"', (io.open("searchquerywithoutspaces", "w")))
             end
         end
     end
