@@ -7,14 +7,6 @@ function open_url(url)
             open_cmd = function(url)
                 os.execute(string.format('start "%s"',(io.open("searchquerywithoutspaces", "r")))
             end
-        elseif (io.popen("uname -s"):read'*a') == "Darwin" then
-            open_cmd = function(url)
-                os.execute(string.format('open "%s"',(io.open("searchquerywithoutspaces", "w")))
-            end
-        else 
-            open_cmd = function(url)
-                os.execute(string.format('xdg-open "%s"', (io.open("searchquerywithoutspaces", "w")))
-            end
         end
     end
 
