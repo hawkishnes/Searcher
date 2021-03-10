@@ -19,6 +19,7 @@ If you contribute to this project by making a pull request on github (https://gi
 5. Only say True information that you can prove
 6. Be kind
 7. Do not pull pranks or troll
+
 Make aure to follow these guidelines when submiting a pull request, submiting an issue, editing a wiki, or contributing.
 
 ## Github
