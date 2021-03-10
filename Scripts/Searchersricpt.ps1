@@ -7,4 +7,4 @@ $SavePath = "Inputsearchquery.txt"
 
 Set-Content -Path (SavePath) -Value (search) -Force 
 
-& '../'
+& '../Removespacesscript.lua'
