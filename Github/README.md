@@ -25,3 +25,8 @@ Make aure to follow these guidelines when submiting a pull request, submiting an
 ## Github
 You can find our github page here: https://github.com/hawkishnes/Searcher
 This is part of a github project by me called "searcher" with you can find here: https://github.com/users/hawkishnes/projects/2
+
+## Consistency Notice
+When contributing code please keep it consistent with other code. when making a pull request i well review your code. your recive a response when your requset is under review. It will look something like this:
+
+Thank you for your request, i am reviewing it now. Expect to here a response sone...
