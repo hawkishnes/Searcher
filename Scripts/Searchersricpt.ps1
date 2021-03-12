@@ -1,9 +1,9 @@
-Clear-Content "../Inputsearchquery"
-Clear-Content "../searchquerywithoutspaces"
+Clear-Content "../Resources/Inputsearchquery"
+Clear-Content "../Resources/searchquerywithoutspaces"
 
 $search = read-host "Enter Search Query"
 
-$SavePath = "Inputsearchquery.txt"
+$SavePath = "Resources/Inputsearchquery.txt"
 
 Set-Content -Path (SavePath) -Value (search) -Force 
 
