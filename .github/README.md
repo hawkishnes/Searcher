@@ -19,6 +19,8 @@ If you contribute to this project by making a pull request on github (https://gi
 5. Only say True information that you can prove
 6. Be kind
 7. Do not pull pranks or troll
+8. Do not advertise
+9. Do not post exploits or other sencitive information publicly. 
 
 Make aure to follow these guidelines when submiting a pull request, submiting an issue, editing a wiki, or contributing.
 
@@ -30,3 +32,6 @@ This is part of a github project by me called "searcher" with you can find here:
 When contributing code please keep it consistent with other code. when making a pull request i well review your code. your recive a response when your requset is under review. It will look something like this:
 
 Thank you for your request, i am reviewing it now. Expect to here a response sone...
+
+## License
+All parts of this program as well as the wiki to this program are licensed under the GNU LGPL (Lesser General Public License) version 2.1. when you contribute you MUST agree to that.
