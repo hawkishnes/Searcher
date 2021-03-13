@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Searcher
 
-You can use the [editor on GitHub](https://github.com/hawkishnes/Searcher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Searcher is a project thta allows you to perform a search on the internet without opening your browser. Searcher is deveoped by hawkishnes. Searcher will also has support for plug-ins so you can customize it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Plugins
+Plug-ins allow for third parties to add features to searcher sepretly from the program itself. plugins can add many things, can be in any coding languege, and can be licensed under any license. You can find plugins in "Plug-in spotlight" and likely in other places.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hawkishnes/Searcher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Community
+Searcher has strict guidelines peotecting the comunity. You can be part of it by submiting issues, submiting pull requests, contributing to the wiki, and by using discussions. you can do all of this on our [Github](github.com/hawkishnes/searcher).
