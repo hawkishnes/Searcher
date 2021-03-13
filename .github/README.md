@@ -25,7 +25,7 @@ If you contribute to this project by making a pull request on github (https://gi
 Make aure to follow these guidelines when submiting a pull request, submiting an issue, editing a wiki, or contributing.
 
 ### License
-All parts of this program as well as the wiki to this program are licensed under the GNU LGPL (Lesser General Public License) version 2.1. when you contribute you MUST agree to that.
+All parts of this program as well as the wiki and the discussions to this program are licensed under the GNU LGPL (Lesser General Public License) version 2.1. when you contribute you MUST agree to that.
 
 ## Github
 You can find our github page here: https://github.com/hawkishnes/Searcher
