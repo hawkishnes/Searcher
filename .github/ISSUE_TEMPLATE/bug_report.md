@@ -24,7 +24,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
- - Version: [e.g. 20H2]
+ - OS Version: [e.g. 20H2]
+ - Program Version: [e.g 1.0.0]
  - CPU: [e.g amd ryson 6800 xt]
  - RAM: [e.g 4 Gigabytes]
  - Other Specs: [e.g 1920x1080 screen with 128 GB of stoorage]
