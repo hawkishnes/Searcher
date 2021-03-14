@@ -1,5 +1,5 @@
-Clear-Content "../Resources/Inputsearchquery"
-Clear-Content "../Resources/searchquerywithoutspaces"
+Clear-Content "../Resources/Inputsearchquery.txt"
+Clear-Content "../Resources/searchquerywithoutspaces.txt"
 
 $search = read-host "Enter Search Query"
 
