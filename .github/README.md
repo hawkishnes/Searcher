@@ -7,9 +7,6 @@ if you have found a bug you can report it as an issue on out github page: https:
 ## Credits
 Hawkishnes - Project Deveoper & Owner
 
-[Jsonex Project](https://github.com/menhirsys/jsonex) by: Menhir Systems on [github](github.com) is used to extract the plugin registry json.
-
-
 ## Contribution
 If you contribute to this project by making a pull request on github (https://github.com/hawkishnes/Searcher) and it gets merged you will be given credit. When you contribute you and all other people who helped you must agree to this being under the GNU LGPL Lincesnse 2.1. If somebody or mupitple people who deveoped it don't agree after 30 days your pull request will be closed.
 
