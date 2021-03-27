@@ -1,6 +1,6 @@
 ## Searcher
 
-Searcher is a project thta allows you to perform a search on the internet without opening your browser. Searcher is deveoped by [Hawkishnes](https://github.com/hawkishnes). It isn't just that, its also will be very customizable.
+Searcher is a project thta allows you to perform a search on the internet without opening your browser. Searcher is deveoped by Hawkishnes. It isn't just that, its also will be very customizable.
 
 ### Plugins
 Plug-ins will allow for third parties to add features to searcher sepretly from the program itself. plugins can add many things, can be in any coding languege, and can be licensed under any license. You can find plugins in "Plug-in spotlight" and likely in other places.
