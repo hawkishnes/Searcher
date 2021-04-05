@@ -5,6 +5,6 @@ InputQuery = io.open("Resources/Inputsearchquery.txt", "r")
 03	FinalSearchQuery = InputQuery:gsub('%s+', '+')
 04	 
 05  io.open("Resources/searchquerywithoutspaces.txt", "w")
-06  f:write("Https://google.com/search=?"FinalSearchQuery"&save="safesearch)
+06  f:write("Https://google.com/search=?"FinalSearchQuery"&safe="safesearch)
 07 
 08  & "Openurlscript.lua"
