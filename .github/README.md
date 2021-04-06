@@ -2,7 +2,7 @@
 Seacher is a basic program that allows you to google search from an app. This program is free and open source, it is licensed under the GNU Lesser General Public License (LGPL) Version 2.1.
 
 ## Reporting Bugs
-if you have found a bug you can report it as an issue on out [github page](https://github.com/hawkishnes/Searcher)
+if you have found a bug you can report it as an issue on our [github page](https://github.com/hawkishnes/Searcher)
 
 ## Credits
 Hawkishnes - Project Deveoper & Owner
