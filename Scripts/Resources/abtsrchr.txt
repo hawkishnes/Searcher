@@ -1,0 +1,10 @@
+  Searcher 1.0.0 - Beta 5 (In-Deveopment Version)
+This is an IMCOMPLETE and UNSTABLE version of 1.0.0
+Beta 5 witch is aready an IMCOMPLETE and UNSTABLE
+version of 1.0.0!
+
+Searcher is a program that alliw you to search the
+web, only ipening your browser to see the search
+results.
+
+Deveoped by: Hawkishnes
