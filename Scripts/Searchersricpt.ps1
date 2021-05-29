@@ -1,4 +1,4 @@
-Get-Content "../resources/abtsrchr.txt"
+Get-Content "../Resources/abtsrchr.txt"
 
 Clear-Content "../Resources/Inputsearchquery"
 Clear-Content "../Resources/searchquerywithoutspaces"
