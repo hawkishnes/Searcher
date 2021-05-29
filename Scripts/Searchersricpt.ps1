@@ -1,3 +1,5 @@
+Get-Content "../resources/abtsrchr.txt"
+
 Clear-Content "../Resources/Inputsearchquery"
 Clear-Content "../Resources/searchquerywithoutspaces"
 Clear-Content "../Resources/ssa"
