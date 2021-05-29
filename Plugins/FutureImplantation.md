@@ -1,4 +1,4 @@
-status: in-deveopment, doesn't currently work.
+status: Temporally Canceled
 
 # Implantation
 
